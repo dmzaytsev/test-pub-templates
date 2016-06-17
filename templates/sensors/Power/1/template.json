@@ -1,0 +1,20 @@
+{
+  "command": "Power",
+  "commandtype": "read",
+  "id": "3328",
+  "details": "This IPSO object is used to measure the Power of a system",
+  "timestamp": "ISO8601",
+  "data": {
+    "value": "5"
+  },
+  "metadata": {
+    "description": "It is used to measure the Power ",
+    "type": "float",
+    "rangemin": "0",
+    "rangemax": "100",
+    "measuredrangemin": "0",
+    "measuredrangemax": "15",
+    "units": "",
+    "tag": ""
+  }
+}

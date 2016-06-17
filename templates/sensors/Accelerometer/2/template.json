@@ -1,0 +1,23 @@
+{
+  "command": "Accelerometer",
+  "commandtype": "read",
+  "id": "3306",
+  "details": "This IPSO object can be used to represent a 1-3 axis accelerometer",
+  "timestamp": "ISO8601",
+  "data": {
+    "value x": "5.0",
+    "value y": "5.6",
+    "value z": "5.3"
+
+  },
+  "metadata": {
+    "description": "It is used to measure the acceleration in all 3 axis",
+    "type": "float",
+    "rangemin": "0",
+    "rangemax": "30",
+    "measuredrangemin": "0",
+    "measuredrangemax": "15",
+    "units": "g",
+    "tag": ""
+  }
+}

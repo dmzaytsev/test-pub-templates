@@ -1,0 +1,5 @@
+name: Power
+description: This IPSO object is used to measure the Power of a system
+tags:
+  - SensorB
+  - Sensors
